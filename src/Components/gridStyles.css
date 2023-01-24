@@ -1,0 +1,30 @@
+.c-box_1 {
+  height: 25rem;
+  overflow: hidden;
+}
+.grid img{
+  margin-left: -10rem;
+}
+.c-box_1:hover img{
+margin-top: -11rem;
+transition: 1s;
+cursor: pointer;
+}
+.c-box_2 {
+  height: 20rem;
+  overflow: hidden;
+}
+.c-box_2:hover img{
+margin-top: -16rem;
+transition: 1s;
+cursor: pointer;
+}
+.c-box_3 {
+  height: 17rem;
+  overflow: hidden;
+}
+.c-box_3:hover img{
+margin-top: -19rem;
+transition: 1s;
+cursor: pointer;
+}

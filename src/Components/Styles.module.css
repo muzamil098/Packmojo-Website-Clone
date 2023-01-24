@@ -1,0 +1,38 @@
+section {
+  color: #32325c;
+}
+.echo {
+  background: url("../Dataset/forest.jpg") no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  padding: 10rem 0;
+}
+footer{
+    background-color: #32325c;
+}
+.footer{
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    color: white;
+}
+.footer ul{
+    list-style: none;
+}
+.footer ul li{
+    margin-top: 0.5rem;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: white;
+} 
+.footer ul li a{
+    text-decoration: none;
+    color: white;
+} 
+.footer ul li a:hover{
+    color:#41E096 ;
+} 
+.footer ul li .active{
+    color:#41E096 ;
+} 

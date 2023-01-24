@@ -1,0 +1,31 @@
+.initial_state__button{
+    text-align: start;
+    border: 1px solid gray;
+    color: gray;
+    padding-left: 0.5rem;
+    background-color: white;
+}
+.initial_state__button:hover{
+    border: 1px solid gray;
+}
+.set_state__button{
+    text-align: start;
+    border: 1px solid gray;
+    color: gray;
+    padding-left: 0.5rem;
+}
+/* .navlink{
+    background: none;
+    border: 1px solid gray;
+    color: gray;
+}
+.navlink:hover{
+    background: none;
+    border: 1px solid gray;
+    color: gray;
+}
+.active{
+    background: none;
+    border: 1px solid green;
+    color: gray;
+} */

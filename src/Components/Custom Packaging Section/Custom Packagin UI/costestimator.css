@@ -1,0 +1,63 @@
+.costestimator{
+    background: url("../../../Dataset/forest.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+    padding: 10rem 0;
+}
+a{
+    background-color: non;
+}
+
+/* .initial_state__button{
+    text-align: start;
+    border: 1px solid gray;
+    color: gray;
+    padding-left: 0.5rem;
+    background-color: white;
+}
+.initial_state__button:hover{
+    border: 1px solid gray;
+}*/
+.set_state__button{
+    text-align: start;
+    border: 1px solid green;
+    color: gray;
+    padding-left: 0.5rem;
+} 
+/* .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    background: #04AA6D;
+    cursor: pointer;
+  }
+  
+  .slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #04AA6D;
+    cursor: pointer;
+  } */
+  input[type=range]{
+    -webkit-appearance: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    width: 300px;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: #157347;
+    margin-top: -5px;
+}
+
+
